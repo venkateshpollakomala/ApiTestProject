@@ -1,0 +1,66 @@
+10:11:36.739 [main] INFO  api.test.UserTest - *****************Creating User*****************
+10:11:40.537 [main] INFO  api.test.UserTest - *****************User is created*****************
+10:11:40.552 [main] INFO  api.test.UserTest - *****************Get user*****************
+10:11:42.292 [main] INFO  api.test.UserTest - *****************User data is displayed in console *****************
+10:11:42.298 [main] INFO  api.test.UserTest - *****************Updating User*****************
+10:11:45.565 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+10:11:45.569 [main] INFO  api.test.UserTest - *****************Delete User*****************
+10:11:47.182 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+10:12:51.878 [main] INFO  api.test.UserTest - *****************Creating User*****************
+10:12:55.377 [main] INFO  api.test.UserTest - *****************User is created*****************
+10:12:55.393 [main] INFO  api.test.UserTest - *****************Get user*****************
+10:12:57.148 [main] INFO  api.test.UserTest - *****************User data is displayed in console *****************
+10:12:57.156 [main] INFO  api.test.UserTest - *****************Updating User*****************
+10:12:59.948 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+10:12:59.956 [main] INFO  api.test.UserTest - *****************Delete User*****************
+10:13:01.752 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+11:05:49.058 [main] INFO  api.test.UserTest - *****************Creating User*****************
+11:05:52.046 [main] INFO  api.test.UserTest - *****************User is created*****************
+11:05:52.049 [main] INFO  api.test.UserTest - *****************Get user*****************
+11:05:53.424 [main] INFO  api.test.UserTest - *****************User data is displayed in consol *****************
+11:05:53.425 [main] INFO  api.test.UserTest - *****************Updating User*****************
+11:05:56.151 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+11:05:56.154 [main] INFO  api.test.UserTest - *****************Delete User*****************
+11:05:57.471 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+11:06:51.007 [main] INFO  api.test.UserTest - *****************Creating User*****************
+11:06:54.283 [main] INFO  api.test.UserTest - *****************User is created*****************
+11:06:54.286 [main] INFO  api.test.UserTest - *****************Get user*****************
+11:06:56.149 [main] INFO  api.test.UserTest - *****************User data is displayed in consol *****************
+11:06:56.150 [main] INFO  api.test.UserTest - *****************Updating User*****************
+11:07:00.178 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+11:07:00.180 [main] INFO  api.test.UserTest - *****************Delete User*****************
+11:07:02.136 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+17:43:01.340 [main] INFO  api.test.UserTest - *****************Creating User*****************
+17:43:05.036 [main] INFO  api.test.UserTest - *****************User is created*****************
+17:43:05.043 [main] INFO  api.test.UserTest - *****************Get user*****************
+17:43:06.462 [main] INFO  api.test.UserTest - *****************User data is displayed in consol *****************
+17:43:06.468 [main] INFO  api.test.UserTest - *****************Updating User*****************
+17:43:09.501 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+17:43:09.511 [main] INFO  api.test.UserTest - *****************Delete User*****************
+17:43:10.859 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+17:48:04.118 [main] INFO  api.test.UserTest - *****************Creating User*****************
+17:48:07.250 [main] INFO  api.test.UserTest - *****************User is created*****************
+17:48:07.256 [main] INFO  api.test.UserTest - *****************Get user*****************
+17:48:08.636 [main] INFO  api.test.UserTest - *****************User data is displayed in consol *****************
+17:48:08.643 [main] INFO  api.test.UserTest - *****************Updating User*****************
+17:48:11.157 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+17:48:11.166 [main] INFO  api.test.UserTest - *****************Delete User*****************
+17:48:12.602 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+18:22:19.157 [main] INFO  api.test.UserTest - *****************Creating User*****************
+18:22:22.272 [main] INFO  api.test.UserTest - *****************User is created*****************
+18:27:54.875 [main] INFO  api.test.UserTest - *****************Creating User*****************
+18:27:58.054 [main] INFO  api.test.UserTest - *****************User is created*****************
+18:27:58.058 [main] INFO  api.test.UserTest - *****************Get user*****************
+18:27:59.429 [main] INFO  api.test.UserTest - *****************User data is displayed in consol *****************
+18:27:59.436 [main] INFO  api.test.UserTest - *****************Updating User*****************
+18:28:02.192 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+18:28:02.194 [main] INFO  api.test.UserTest - *****************Delete User*****************
+18:28:03.438 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
+08:53:01.080 [main] INFO  api.test.UserTest - *****************Creating User*****************
+08:53:04.980 [main] INFO  api.test.UserTest - *****************User is created*****************
+08:53:04.980 [main] INFO  api.test.UserTest - *****************Get user*****************
+08:53:06.625 [main] INFO  api.test.UserTest - *****************User data is displayed in consol *****************
+08:53:06.625 [main] INFO  api.test.UserTest - *****************Updating User*****************
+08:53:09.692 [main] INFO  api.test.UserTest - *****************User data successfully updated*****************
+08:53:09.699 [main] INFO  api.test.UserTest - *****************Delete User*****************
+08:53:11.329 [main] INFO  api.test.UserTest - *****************User is successfully deleted*****************
